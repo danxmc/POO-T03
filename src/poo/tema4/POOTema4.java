@@ -17,7 +17,7 @@ public class POOTema4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Cuadrado c = new Cuadrado("Verde", (float) 2);
+        Figuras c = new Cuadrado("Verde", (float) 2);
         c.getArea();
         c.getDatos();
         c.getPerimetro();
